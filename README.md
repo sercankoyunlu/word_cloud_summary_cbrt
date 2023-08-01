@@ -1,5 +1,5 @@
-# word_cloud_summary_cbrt
- Monetary Policy Analysis with NLP Techniques
+#  Monetary Policy Analysis with NLP Techniques
+
 This repository contains Python code that performs Natural Language Processing (NLP) techniques to analyze monetary policy documents, specifically the summary of the Monetary Policy Committee (MPC) meetings from the Central Bank of Turkey (CBRT).
 
 The main goal of this project is to extract meaningful insights from the CBRT's meeting summaries by using various NLP techniques, including web scraping, text cleaning, lemmatization, part-of-speech tagging, and creating visualizations like word clouds and frequency bar plots.
